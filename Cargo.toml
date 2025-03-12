@@ -1,0 +1,18 @@
+[package]
+name = "Laplacian"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nalgebra = "0.33.2"
+nalgebra-sparse = "0.10.0"
+#beryllium = { version = "0.2.0-alpha.1", default-features = false, features = ["link_static"] }
+#ogl33 = { version = "0.2.0", features = ["debug_error_checks"]}
+#
+#[dev-dependencies]
+#beryllium = "0.2.0-alpha.4"
+#imagine = "0.0.5"
+#
+#[dependencies.sdl2]
+#features = ["use_mac_framework"]
+#version = "2.32.2"  # Whichever version you are using
