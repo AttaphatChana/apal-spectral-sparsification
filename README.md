@@ -5,7 +5,7 @@ Theory:
   - using property of Laplacian matrix of symmetric,semi definite positive, and linear
   - to show that sampling each edges with and reweigh them in proportion to effective resistance
   - give both nice expectation in terms of Laplacian and eigen bound
-  - apply matrix chernoff bound(and prove it)
+  - apply matrix chernoff bound
   - use JL transform to approximate Ref 
 - Prove matrix chernoff bound
 
