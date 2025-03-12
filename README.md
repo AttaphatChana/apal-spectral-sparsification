@@ -3,7 +3,7 @@ Project Structure:
 Theory:
 - Prove for an existence of 1+ $\epsilon$ spectral sparse graph whp
   - using property of Laplacian matrix of symmetric,semi definite positive, and linear
-  - to show that sampling each edges with and reweigh them in proportion to effective resistance
+  - to show that sampling each edges with probability and reweigh them in proportion to effective resistance
   - give both nice expectation in terms of Laplacian and eigen bound
   - apply matrix chernoff bound
   - use JL transform to approximate Ref 
